@@ -35,7 +35,7 @@ Bienvenido a mi pagina Github! Soy Alfredo Rodríguez de Costa Rica!
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 </p>
 
 
