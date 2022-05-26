@@ -1,3 +1,5 @@
+<img src="alfredo_rs.png" width="200" width="200" height="200">
+
 # Hola 👋 Mi nombre es Alfredo Rodríguez Siles
 
 ## Desarrollador Web
